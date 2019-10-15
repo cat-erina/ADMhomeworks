@@ -1,4 +1,5 @@
 #Problem 1
+#Small note, I know these aren't many exercices but I just decided to enroll here, so this is what I was able to do in two days. Hope I can make it up with the other homeworks.
 #-------Challenge 1 - Introduction
 
 #1) Hello World
